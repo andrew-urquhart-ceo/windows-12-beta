@@ -13,9 +13,6 @@ Thank you all for a year of encouragement, support, criticism, and suggestions.
 With everyone’s effort, the future of Windows 12 will only shine brighter!
 —— Xingyuan · 2023/8/28
 
-yaml
-Sao chép mã
-
 ---
 
 ### 📌 Project Development Notice
@@ -32,9 +29,6 @@ Once I reach the golden list of honor,
 We shall meet again and talk about this past year.
 Until then — farewell, my friends, see you next year!
 —— Xingyuan · 2023/8/30
-
-yaml
-Sao chép mã
 
 ---
 
