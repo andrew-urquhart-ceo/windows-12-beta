@@ -131,7 +131,7 @@ Thank you for supporting open-source developers!
 
 ## Live Demo
 
-👉 **[https://tjy-gitnub.github.io/win12/desktop.html](https://andrew-urquhart-ceo.github.io/windows-12-beta/desktop.html)**  
+👉 **[https://andrew-urquhart-ceo.github.io/windows-12-beta/desktop.html](https://andrew-urquhart-ceo.github.io/windows-12-beta/desktop.html)**  
 *(It may take a moment to load.)*
 
 ---
